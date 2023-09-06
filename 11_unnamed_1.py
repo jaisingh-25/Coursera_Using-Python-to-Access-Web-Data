@@ -8,7 +8,7 @@ Created on Mon Jul 24 16:12:01 2023
 import re
 
 sum=0
-a=open(r"C:\Users\jaisi\Documents\Jai\Coursera\Python for Everybody - Specialisation\3_Using Python to Access Web Data\11_unnamed_1.txt")
+a=open(r"...\11_unnamed_1.txt")
 for i in a:
     for j in re.findall("[0-9]+", i):
         sum+= int(j)
