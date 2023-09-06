@@ -16,5 +16,5 @@ print(sum)
 
 # #List Comprehension short code
 # import re
-# #a=open(r"C:\Users\jaisi\Documents\Jai\Coursera\Python for Everybody - Specialisation\3_Using Python to Access Web Data\11_3_unnamed.txt")
+# #a=open(r"...\11_3_unnamed.txt")
 # print(sum([int(i) for i in re.findall("[0-9]+", open(r"C:\Users\jaisi\Documents\Jai\Coursera\Python for Everybody - Specialisation\3_Using Python to Access Web Data\11_3_unnamed.txt").read())]))
