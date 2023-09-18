@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 28 01:03:18 2023
-
-@author: jaisi
-"""
-
 import urllib.request, urllib.parse, urllib.error
 import xml.etree.ElementTree as ET
 import ssl
