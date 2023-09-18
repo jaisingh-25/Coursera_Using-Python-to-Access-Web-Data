@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 24 16:12:01 2023
-
-@author: jaisi
-"""
-
 import re
 
 sum=0
