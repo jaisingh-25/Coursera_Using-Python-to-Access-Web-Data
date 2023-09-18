@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 25 23:45:43 2023
-
-@author: jaisi
-"""
-
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 import ssl
