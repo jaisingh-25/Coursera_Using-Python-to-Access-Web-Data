@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 27 01:25:48 2023
-
-@author: jaisi
-"""
-
 def call_link(url):
     html=urllib.request.urlopen(url, context=ctx).read()
     soup=BeautifulSoup(html, "html.parser")
