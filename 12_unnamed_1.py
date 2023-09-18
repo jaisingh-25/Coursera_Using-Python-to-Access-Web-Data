@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 27 02:28:29 2023
-
-@author: jaisi
-"""
-
 import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
