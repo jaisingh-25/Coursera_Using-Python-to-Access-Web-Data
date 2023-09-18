@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 31 13:55:42 2023
-
-@author: jaisi
-"""
-
 import json
 import urllib.request, urllib.parse, urllib.error
 import ssl
